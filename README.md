@@ -1,3 +1,5 @@
+Gabriel José Santos Rossignatti Monteiro RM: 87350
+Camila Alves Xavier de Souza RM: 86792
 
 ## Executando o Backend
 
